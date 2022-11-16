@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531997838577",
+    "project_id": "pertagram",
+    "storage_bucket": "pertagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531997838577:android:6286f7c4bdffb804142d50",
+        "android_client_info": {
+          "package_name": "com.example.pertagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531997838577-vh5nq5l4e93htl6jl3k050c4vf1o8g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxWJCMZT-CR33JZL4DU1azdqLWiRvQSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531997838577-vh5nq5l4e93htl6jl3k050c4vf1o8g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
